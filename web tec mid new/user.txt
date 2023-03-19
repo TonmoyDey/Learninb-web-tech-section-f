@@ -1,0 +1,2 @@
+
+customer|1234|adnan|td23@gmail.com|Male|Liberian
