@@ -1,0 +1,6 @@
+td|1234|td|td23@gmail.com|Male|Admin
+a|1234|RABBI|amarmail.rh@gmail.com|Male|Admin
+tr|1234|tonmoy dey|tonmoyd2001@gmail.com|Male|Admin
+a|1234|tonmoy dey|trishadey230697@gmail.com|Male|Admin
+tr|0987|trisha|d@gmail.com|Female|Admin
+aku|!@#$|akangsharai|akangsha123@gmail.com|Female|Admin
